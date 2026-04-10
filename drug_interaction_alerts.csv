@@ -1,0 +1,9 @@
+mrn,name,drug1,drug2,interaction_severity,description
+P-1007,Patient 8,Cisplatin,Metformin,Medium,Increased risk of nephrotoxicity
+P-1007,Patient 8,Metformin,Cisplatin,Medium,Increased risk of nephrotoxicity
+P-1009,Patient 10,Warfarin,Ibuprofen,High,Increased risk of bleeding
+P-1009,Patient 10,Ibuprofen,Warfarin,High,Increased risk of bleeding
+P-1013,Patient 14,Cisplatin,Metformin,Medium,Increased risk of nephrotoxicity
+P-1013,Patient 14,Metformin,Cisplatin,Medium,Increased risk of nephrotoxicity
+P-1014,Patient 15,Warfarin,Ibuprofen,High,Increased risk of bleeding
+P-1014,Patient 15,Ibuprofen,Warfarin,High,Increased risk of bleeding

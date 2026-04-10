@@ -1,0 +1,21 @@
+name,mrn,age,gender,diagnosis,hemoglobin,wbc,platelets,creatinine,medications,clinical_note,is_high_risk,alert_count
+Patient 1,P-1000,38,F,Breast Cancer,5.1,11.8,88,1.8,Doxorubicin,Initial intake for Breast Cancer patient. Some fatigue reported. Critical hemoglobin detected.,True,4
+Patient 2,P-1001,46,F,Lymphoma,12.4,6.3,170,0.9,Doxorubicin,Initial intake for Lymphoma patient. Some fatigue reported.,False,0
+Patient 3,P-1002,34,F,Leukemia,10.0,10.7,154,0.6,"Herceptin, Chemotherapy_DrugX",Initial intake for Leukemia patient. Some fatigue reported.,False,1
+Patient 4,P-1003,55,M,Colorectal Cancer,5.3,3.0,319,2.0,Doxorubicin,Initial intake for Colorectal Cancer patient. Some fatigue reported. Critical hemoglobin detected.,True,3
+Patient 5,P-1004,55,M,Lung Cancer,7.4,11.4,147,1.1,Doxorubicin,Initial intake for Lung Cancer patient. Some fatigue reported.,True,3
+Patient 6,P-1005,73,F,Ovarian Cancer,9.0,3.6,89,1.5,"Fluorouracil, Leucovorin",Initial intake for Ovarian Cancer patient. Some fatigue reported. Multiple lab abnormalities.,True,4
+Patient 7,P-1006,40,F,Leukemia,7.9,0.5,352,1.4,"Herceptin, Chemotherapy_DrugX",Initial intake for Leukemia patient. Some fatigue reported. Severe neutropenia suspected.,True,3
+Patient 8,P-1007,33,F,Leukemia,7.9,1.9,362,1.5,"Cisplatin, Metformin",Initial intake for Leukemia patient. Some fatigue reported. Potential drug interaction identified.,True,3
+Patient 9,P-1008,61,F,Lymphoma,9.2,13.7,263,0.8,Aspirin,Initial intake for Lymphoma patient. Some fatigue reported.,True,2
+Patient 10,P-1009,46,M,Leukemia,8.9,0.7,111,1.7,"Warfarin, Ibuprofen, Chemotherapy_DrugX",Initial intake for Breast Cancer patient. Some fatigue reported. Severe neutropenia suspected.,True,4
+Patient 11,P-1010,52,F,Breast Cancer,10.7,3.3,81,2.0,Aspirin,Initial intake for Breast Cancer patient. Some fatigue reported. Multiple lab abnormalities.,True,4
+Patient 12,P-1011,71,F,Colorectal Cancer,11.0,14.6,337,1.3,"Herceptin, Chemotherapy_DrugX",Initial intake for Colorectal Cancer patient. Some fatigue reported.,True,2
+Patient 13,P-1012,58,M,Lymphoma,6.7,6.2,256,1.6,Prednisone,Initial intake for Lymphoma patient. Some fatigue reported. Critical hemoglobin detected.,True,2
+Patient 14,P-1013,60,M,Lung Cancer,13.4,12.1,360,0.6,"Cisplatin, Metformin",Initial intake for Lung Cancer patient. Some fatigue reported.,True,1
+Patient 15,P-1014,79,F,Ovarian Cancer,15.0,9.7,223,1.9,"Warfarin, Ibuprofen",Initial intake for Ovarian Cancer patient. Some fatigue reported. Potential drug interaction identified.,False,1
+Patient 16,P-1015,71,F,Lymphoma,5.7,9.9,296,1.8,Doxorubicin,Initial intake for Lymphoma patient. Some fatigue reported. Critical hemoglobin detected.,True,2
+Patient 17,P-1016,65,F,Lymphoma,10.4,4.8,98,1.0,Tamoxifen,Initial intake for Lymphoma patient. Some fatigue reported.,True,2
+Patient 18,P-1017,46,F,Lymphoma,7.1,1.7,141,1.2,Omeprazole,Initial intake for Lymphoma patient. Some fatigue reported.,True,3
+Patient 19,P-1018,41,F,Ovarian Cancer,6.0,12.7,323,1.4,"Fluorouracil, Leucovorin",Initial intake for Ovarian Cancer patient. Some fatigue reported. Critical hemoglobin detected.,True,3
+Patient 20,P-1019,35,M,Lung Cancer,7.9,8.9,126,1.9,"Herceptin, Chemotherapy_DrugX",Initial intake for Lung Cancer patient. Some fatigue reported.,True,3
